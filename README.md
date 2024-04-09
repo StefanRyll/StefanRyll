@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Stefan Ryll
+<h1>👋 Hi, I’m Stefan Ryll</h1>
+
+
 
 - 🌱 I’m currently learning Firebase/Angular
 
