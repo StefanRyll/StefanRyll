@@ -2,9 +2,8 @@
 
 
 
-- 🌱 I’m currently learning Firebase/Angular
-
-
+- 🌱 I’m currently working on my first Portfolio and learning Firebase/Angular
+- ⚡ Looking for a new challenge
 
 <!---
 StefanRyll/StefanRyll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
