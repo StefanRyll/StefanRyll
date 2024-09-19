@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently working on my first Portfolio and learning Angular / Google Firebase
+- 🌱 I’m currently working and learning Google Firebase
 - ⚡ Looking for a new challenge
 
 <!---
