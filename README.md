@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently working and learning Google Firebase
+- 🌱 I’m currently working and learning Svelte Framework
 - ⚡ Looking for a new challenge
 
 <!---
