@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 
-- 🌱 Currently learning and working with the **Svelte Framework** and **vue.js**.
+- 🌱 Currently learning and working with the **Svelte Framework** and **Vue.js**.
 - ⚡ Always looking for new challenges.
 - 💡 Passionate about **web development** and emerging technologies.
 - 🎯 Goal-oriented and committed to tackling new projects!
@@ -32,7 +32,7 @@
 
 - 📧 [Email me](mailto:mail@stefan-ryll.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/stefan-ryll-16a2a5282/?originalSubdomain=de)
-- 🌐 [Website/Portfolio](http://www.stefan-ryll.com)
+- 🌐 [Portfolio](http://www.stefan-ryll.com)
 
 ---
 
