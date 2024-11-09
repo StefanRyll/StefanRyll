@@ -4,7 +4,7 @@
 
 ### About Me 🚀
 
-- 🌱 Currently learning and working with the **Svelte Framework** and **Vue.js**.
+- 🌱 Currently learning and working on backend development with **Python** and **Django**.
 - ⚡ Always looking for new challenges.
 - 💡 Passionate about **web development** and emerging technologies.
 - 🎯 Goal-oriented and committed to tackling new projects!
