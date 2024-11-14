@@ -1,6 +1,10 @@
 <h1>👋 Hi, I’m Stefan Ryll</h1>
 
+
+
 ---
+
+
 
 ### About Me 🚀
 
@@ -9,7 +13,11 @@
 - 💡 Passionate about **web development** and emerging technologies.
 - 🎯 Goal-oriented and committed to tackling new projects!
 
+
+
 ---
+
+
 
 ### Technologies & Tools 🛠️
 
@@ -27,7 +35,11 @@
   <img src="https://img.shields.io/badge/Tools-Git-red?style=flat-square&logo=git" />
 </p>
 
+
+
 ---
+
+
 
 ### 📫 How to Reach Me
 
