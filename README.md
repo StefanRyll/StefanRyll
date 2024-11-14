@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Tools-Git-red?style=flat-square&logo=git" />
 </p>
 
+---
 
 ### 📫 How to Reach Me
 
